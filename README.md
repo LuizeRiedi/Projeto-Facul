@@ -1,0 +1,2 @@
+Este primeiro projeto que compartilhei é um trabalho acadêmico. Foi nos pedido para criar um jogo no qual você busca seu sabre de luz perdido, mas precisa achar antes do darth vader te achar. 
+Consiste em passar por comôdos através de direções Norte, Sul, Leste e Oeste. São 6 comôdos ao total que você tem a disposição para procurar seu sabre. Caso encontre antes do darth vader te encontrar você ganha o jogo. Foi usada a função random para mover o darth vader.
